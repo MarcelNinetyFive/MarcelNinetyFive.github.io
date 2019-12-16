@@ -1,0 +1,72 @@
+ /* SCROLLBAR*/
+
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.spinner {
+    width: 10rem; 
+    height: 10rem;
+}
+
+.loading-status-text {
+    font-size:large;
+}
+
+.slidecontainer {
+  width: 100%; /* Width of the outside container */
+}
+
+/* The slider itself */
+.slider {
+  -webkit-appearance: none;  /* Override default CSS styles */
+  appearance: none;
+  width: 100%; /* Full-width */
+  height: 25px; /* Specified height */
+  background: #d3d3d3; /* Grey background */
+  outline: none; /* Remove outline */
+  opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+  -webkit-transition: .2s; /* 0.2 seconds transition on hover */
+  transition: opacity .2s;
+}
+
+/* Mouse-over effects */
+.slider:hover {
+  opacity: 1; /* Fully shown on mouse-over */
+}
+
+
+::-webkit-scrollbar {
+    width: 0px;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+
+
+//Sliders for voting
+
+#custom-handle {
+    width: 3em;
+    height: 1.6em;
+    top: 50%;
+    margin-top: -.8em;
+    text-align: center;
+    line-height: 1.6em;
+  }
+
+//navbar
+.sticky-top {
+background: rgba(252, 252, 252, 1) !important;
+}
+
+.nav a{
+    font-size: 1.8em !important;
+    }
+
+//footer
+/* Sticky Footer Classes */
+
+#sticky-footer {
+  flex-shrink: 0;
+     position:fixed;
+}
