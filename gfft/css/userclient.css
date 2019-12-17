@@ -43,8 +43,6 @@ html {
 }
 
 
-//Sliders for voting
-
 #custom-handle {
     width: 3em;
     height: 1.6em;
@@ -54,7 +52,6 @@ html {
     line-height: 1.6em;
   }
 
-//navbar
 .sticky-top {
 background: rgba(252, 252, 252, 1) !important;
 }
@@ -63,8 +60,6 @@ background: rgba(252, 252, 252, 1) !important;
     font-size: 1.8em !important;
     }
 
-//footer
-/* Sticky Footer Classes */
 
 #sticky-footer {
   flex-shrink: 0;
