@@ -64,6 +64,6 @@ background: rgba(252, 252, 252, 1) !important;
 #sticky-footer {
   flex-shrink: 0;
   position:fixed;
-  background-color:light-grey;
+  background-color:#b5b5bf;
  border-style:solid;
 }
