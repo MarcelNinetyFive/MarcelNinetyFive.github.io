@@ -68,3 +68,8 @@ background: rgba(252, 252, 252, 1) !important;
   border-style:solid;  !important
   width: 100%;
 }
+
+.div containter {
+ background-color:grey; !important
+  border-style:solid;  !important
+}
