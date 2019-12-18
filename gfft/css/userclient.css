@@ -2,8 +2,10 @@
 /*TEXT*/
 
 .loading-status-text {
-font-color:white;
+  font-size:large;
+  font-color:white;
 }
+
 /* SCROLLBAR*/
 
 html {
@@ -14,10 +16,6 @@ html {
 .spinner {
     width: 10rem; 
     height: 10rem;
-}
-
-.loading-status-text {
-    font-size:large;
 }
 
 .slidecontainer {
