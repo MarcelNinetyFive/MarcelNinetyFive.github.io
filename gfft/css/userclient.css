@@ -1,7 +1,9 @@
  
 /*TEXT*/
 
-
+#loading-status-text {
+font-color:white;
+}
 /* SCROLLBAR*/
 
 html {
