@@ -1,4 +1,10 @@
- /* SCROLLBAR*/
+ 
+/*TEXT*/
+
+p {
+ font-color:white;
+}
+/* SCROLLBAR*/
 
 html {
     overflow: scroll;
